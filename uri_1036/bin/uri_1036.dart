@@ -23,7 +23,5 @@ void main() {
     print('Impossivel calcular');
   }
 }
-void main(List<String> arguments) {
-  print('Hello world!');
-}
+
 
