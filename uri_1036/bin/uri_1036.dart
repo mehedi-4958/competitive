@@ -16,7 +16,7 @@ void main() {
   if(D > 0 && A != 0){
     String R1 = ((-B + D) / (2 * A)).toStringAsFixed(5);
     String R2 = ((-B - D) / (2 * A)).toStringAsFixed(5);
-    
+
     print('R1 = $R1');
     print('R2 = $R2');
   } else {
