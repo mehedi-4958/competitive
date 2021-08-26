@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be4c1993-7f5c-4ec9-bf55-fab8350b0030" name="Default Changelist" comment="" />
+    <list default="true" id="be4c1993-7f5c-4ec9-bf55-fab8350b0030" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../uri_1020/uri_1020.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
