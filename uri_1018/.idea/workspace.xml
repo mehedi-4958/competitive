@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be4c1993-7f5c-4ec9-bf55-fab8350b0030" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../uri_1020/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/bin/uri_1020.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../uri_1020/uri_1020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uri_1020/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../uri_1020/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../uri_1020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uri_1020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uri_1020/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/../uri_1020/.packages" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
