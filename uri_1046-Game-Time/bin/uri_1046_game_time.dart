@@ -6,7 +6,8 @@ void main() {
   
   int startTime = int.parse(S[0]);
   int endTime = int.parse(S[1]);
-  int totalTime;
+
+  int? totalTime;
   if(startTime == endTime){
     totalTime = 24;
   }
