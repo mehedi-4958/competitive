@@ -10,6 +10,8 @@ void main() {
 
     if(l[0] == 0 || l[1] == 0){
       break;
+    }else{
+      List L = l;
     }
   }
 }
